@@ -1,8 +1,12 @@
 Package: psydata
 Title: Simple Tools for Psychological Data Analysis
 Version: 0.0.0.9000
-Authors@R: Serafina
-Description: Provides simple reusable functions for psychological data analysis, including descriptive statistics for scale scores and checks for missing values in data frames.
+Authors@R:
+    person("Serafina", "Lutgen", role = c("aut", "cre"))
+Description: Provides simple reusable functions for psychological data
+    analysis, including descriptive statistics for scale scores and checks
+    for missing values in data frames.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Config/roxygen2/version: 8.1.0
